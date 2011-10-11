@@ -1,0 +1,9 @@
+8
+DEL 1234656890 /home/music.mp3 1dc4df
+ADD 1234567899 /home/edouard/music.mp3 1dc4df
+DEL 1234589011 /home/edouard -
+DEL 1234589011 /home/edouard/cv.pdf 4dec99
+DEL 1234589011 /home/edouard/coverletter.pdf 94fd47
+ADD 1234589012 /home/work/edouard -
+ADD 1234589012 /home/work/edouard/cv.pdf 4dec99
+ADD 1234589012 /home/work/edouard/coverletter.pdf 94fd47

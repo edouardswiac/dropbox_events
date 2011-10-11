@@ -1,0 +1,5 @@
+4   
+DEL 1234567890 /home -
+DEL 1234567890 /home/file1 3fb99af
+DEL 1234567890 /test/file2 3fb92af
+DEL 1234567890 /test/file3 3fb95af
